@@ -1,0 +1,28 @@
+{
+    "name": "dnn",
+    "version": "0.0.7",
+    "description": "Deep learning library for Node.js. (includes MLP, RBM, DBN, CRBM, CDBN)",
+    "main": "./lib/dnn",
+    "repository": {
+        "url": ""
+    },
+    "keywords": [
+        "deep learning",
+        "dnn",
+        "deep neural network",
+        "neural network",
+        "machine learning",
+        "deep belief network",
+        "mlp",
+        "boltzmann machine",
+        "restricted boltzmann machine",
+        "multi layer perceptron",
+        "logistic regression"
+    ],
+    "author": {"name":"Joon-Ku Kang","email":"junku901@gmail.com"},
+    "license": "MIT",
+    "dependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}

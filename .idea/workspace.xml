@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa036a5e-914d-4d43-ae2b-68813d2d998f" name="Default" comment="" />
+    <ignored path="Deep Learning_Nodejs.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Deep Learning_Nodejs" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="23" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="3648" max-vertical-offset="4192">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="22" selection-start="494" selection-end="494" vertical-scroll-proportion="0.5846154" vertical-offset="0" max-vertical-offset="520">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rbm.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/rbm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="24" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0" vertical-offset="48" max-vertical-offset="608">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mlp.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/mlp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="28" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="640">
+              <folding>
+                <element signature="e#0#49#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logistic_regression.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/logistic_regression.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="50" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656">
+              <folding>
+                <element signature="e#0#49#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dbn.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/dbn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="50" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="832">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="crbm.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/crbm.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="25" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+              <folding>
+                <element signature="e#0#49#0" expanded="false" />
+                <marker date="1389872975000" expanded="true" signature="94:299" placeholder="[...]" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CRBM.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/CRBM.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="960">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cdbn.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/cdbn.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="43" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="880">
+              <folding>
+                <element signature="e#0#49#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CDBN.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/CDBN.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="33" selection-start="1889" selection-end="1889" vertical-scroll-proportion="0.0" vertical-offset="656" max-vertical-offset="1200">
+              <folding>
+                <element signature="e#0#49#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/examples/logistic_regression.js" />
+        <option value="$PROJECT_DIR$/DBN.js" />
+        <option value="$PROJECT_DIR$/MLP.js" />
+        <option value="$PROJECT_DIR$/CRBM_CHEN.js" />
+        <option value="$PROJECT_DIR$/dnn.js" />
+        <option value="$PROJECT_DIR$/CDBN.js" />
+        <option value="$PROJECT_DIR$/RBM.js" />
+        <option value="$PROJECT_DIR$/CRBM.js" />
+        <option value="$PROJECT_DIR$/examples/dbn.js" />
+        <option value="$PROJECT_DIR$/examples/mlp.js" />
+        <option value="$PROJECT_DIR$/math.js" />
+        <option value="$PROJECT_DIR$/examples/rbm.js" />
+        <option value="$PROJECT_DIR$/examples/crbm.js" />
+        <option value="$PROJECT_DIR$/examples/cdbn.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Deep Learning_Nodejs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Deep Learning_Nodejs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Deep Learning_Nodejs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="FullScreen" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa036a5e-914d-4d43-ae2b-68813d2d998f" name="Default" comment="" />
+      <created>1389508868960</created>
+      <updated>1389508868960</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33021078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24276641" sideWeight="0.66978925" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/HiddenLayer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="1" selection-start="1775" selection-end="1775" vertical-scroll-proportion="0.0" vertical-offset="464" max-vertical-offset="1008">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/LogisticRegression.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="47" selection-start="1441" selection-end="1441" vertical-scroll-proportion="0.0" vertical-offset="217" max-vertical-offset="1136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/math.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="519" column="2" selection-start="12666" selection-end="12666" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1904">
+          <folding>
+            <element signature="e#92#456#0" expanded="false" />
+            <element signature="e#482#562#0" expanded="false" />
+            <element signature="e#597#849#0" expanded="false" />
+            <element signature="e#884#1136#0" expanded="false" />
+            <element signature="e#1177#1465#0" expanded="false" />
+            <element signature="e#1499#1756#0" expanded="false" />
+            <element signature="e#1792#2051#0" expanded="false" />
+            <element signature="e#2086#2535#0" expanded="false" />
+            <element signature="e#2572#3021#0" expanded="false" />
+            <element signature="e#3052#3307#0" expanded="false" />
+            <element signature="e#3343#3594#0" expanded="false" />
+            <element signature="e#3631#3725#0" expanded="false" />
+            <element signature="e#3766#3878#0" expanded="false" />
+            <element signature="e#3919#4207#0" expanded="false" />
+            <element signature="e#4253#4774#0" expanded="false" />
+            <element signature="e#4810#5328#0" expanded="false" />
+            <element signature="e#5356#5463#0" expanded="false" />
+            <element signature="e#5491#5644#0" expanded="false" />
+            <element signature="e#5681#6056#0" expanded="false" />
+            <element signature="e#6085#6132#0" expanded="false" />
+            <element signature="e#6161#6264#0" expanded="false" />
+            <element signature="e#6302#6679#0" expanded="false" />
+            <element signature="e#6710#6847#0" expanded="false" />
+            <element signature="e#6878#7021#0" expanded="false" />
+            <element signature="e#7049#7190#0" expanded="false" />
+            <element signature="e#7218#7359#0" expanded="false" />
+            <element signature="e#7386#7596#0" expanded="false" />
+            <element signature="e#7624#7834#0" expanded="false" />
+            <element signature="e#7861#7945#0" expanded="false" />
+            <element signature="e#7978#8077#0" expanded="false" />
+            <element signature="e#8103#8187#0" expanded="false" />
+            <element signature="e#8219#8317#0" expanded="false" />
+            <element signature="e#8356#8588#0" expanded="false" />
+            <element signature="e#8633#8856#0" expanded="false" />
+            <element signature="e#8895#8999#0" expanded="false" />
+            <element signature="e#9044#9155#0" expanded="false" />
+            <element signature="e#9184#9408#0" expanded="false" />
+            <element signature="e#9435#10031#0" expanded="false" />
+            <element signature="e#10058#10108#0" expanded="false" />
+            <element signature="e#10145#10511#0" expanded="false" />
+            <element signature="e#10555#10672#0" expanded="false" />
+            <element signature="e#10716#10986#0" expanded="false" />
+            <element signature="e#11040#11340#0" expanded="false" />
+            <element signature="e#11394#11926#0" expanded="false" />
+            <element signature="e#11959#12047#0" expanded="false" />
+            <element signature="e#12086#12277#0" expanded="false" />
+            <element signature="e#12309#12512#0" expanded="false" />
+            <element signature="e#12544#12665#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/MLP.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="38" selection-start="4060" selection-end="4060" vertical-scroll-proportion="0.0" vertical-offset="1280" max-vertical-offset="2192">
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dnn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="26" selection-start="243" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/RBM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="2" selection-start="3546" selection-end="3547" vertical-scroll-proportion="0.0" vertical-offset="1164" max-vertical-offset="2256">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/mlp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="28" selection-start="620" selection-end="620" vertical-scroll-proportion="0.0" vertical-offset="96" max-vertical-offset="640">
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/logistic_regression.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="50" selection-end="662" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="656">
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/rbm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="24" selection-start="525" selection-end="525" vertical-scroll-proportion="0.0" vertical-offset="48" max-vertical-offset="608">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/CDBN.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="33" selection-start="1889" selection-end="1889" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1200">
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/dbn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="50" selection-end="889" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="832">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/crbm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="0" selection-start="474" selection-end="474" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+            <marker date="1389872975000" expanded="true" signature="94:299" placeholder="[...]" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cdbn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="43" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="880">
+          <folding>
+            <element signature="e#0#49#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/CRBM.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="960">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="23" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0" vertical-offset="3648" max-vertical-offset="4192">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="22" selection-start="494" selection-end="494" vertical-scroll-proportion="0.5846154" vertical-offset="0" max-vertical-offset="520">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
