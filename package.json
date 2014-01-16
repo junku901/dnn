@@ -1,10 +1,11 @@
 {
     "name": "dnn",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "Deep learning library for Node.js. (includes MLP, RBM, DBN, CRBM, CDBN)",
     "main": "./lib/dnn",
     "repository": {
-        "url": ""
+        "type": "git",
+        "url": "git://github.com/junku901/dnn"
     },
     "keywords": [
         "deep learning",
