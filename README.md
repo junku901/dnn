@@ -4,6 +4,8 @@ Deep learning library for node.js.
 
 Includes Logistic-Regression, MLP, RBM, DBN, CRBM, CDBN. (Deep Neural Network)
 
+RBM is using contrastive-divergence for its training algorithm.
+
 ## Installation
 ```
 $ npm install dnn
@@ -117,7 +119,7 @@ var trainingEpochs = 500;
 
 rbm.train({
     lr : 0.6,
-    k : 1,
+    k : 1, // CD-k.
     epochs : trainingEpochs
 });
 
@@ -159,7 +161,7 @@ dbn.set('log level',1); // 0 : nothing, 1 : info, 2 : warning.
 // Pre-Training using using RBM
 dbn.pretrain({
     'lr' : pretrain_lr,
-    'k' : k,
+    'k' : k, // RBM CD-k.
     'epochs' : pretrain_epochs
 });
 
@@ -202,7 +204,7 @@ crbm.set('log level',1); // 0 : nothing, 1 : info, 2 : warning.
 
 crbm.train({
     lr : 0.6,
-    k : 1,
+    k : 1, // CD-k.
     epochs : 1500
 });
 
@@ -246,7 +248,7 @@ var pretrain_lr = 0.8, pretrain_epochs = 1600, k= 1, finetune_lr = 0.84, finetun
 // Pre-Training using using RBM, CRBM.
 cdbn.pretrain({
     'lr' : pretrain_lr,
-    'k' : k,
+    'k' : k, // RBM CD-k.
     'epochs' : pretrain_epochs
 });
 
