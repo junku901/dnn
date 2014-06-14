@@ -1,6 +1,6 @@
 # dnn
 
-Deep learning library for node.js.
+Simple deep learning library for node.js.
 
 Includes Logistic-Regression, MLP, RBM, DBN, CRBM, CDBN. (Deep Neural Network)
 
