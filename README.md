@@ -21,7 +21,7 @@ $ npm install dnn
   * CDBN (Deep Belief Network with continuous-valued inputs)
 
 ## Logistic Regression
-```
+```javascript
 var dnn = require('dnn');
 var x = [[1,1,1,0,0,0],
          [1,0,1,0,0,0],
@@ -60,7 +60,7 @@ console.log("Result : ",lrClassifier.predict(x));
 ```
 
 ## MLP (Multi-Layer Perceptron)
-```
+```javascript
 var dnn = require('dnn');
 var x = [[0.4, 0.5, 0.5, 0.,  0.,  0.],
          [0.5, 0.3,  0.5, 0.,  0.,  0.],
@@ -98,7 +98,7 @@ console.log(mlp.predict(a));
 ```
 
 ## RBM (Restricted Boltzmann Machine)
-```
+```javascript
 var dnn = require('dnn');
 var data = [[1,1,1,0,0,0],
             [1,0,1,0,0,0],
@@ -131,7 +131,7 @@ console.log(rbm.sampleHgivenV(v)[0]); // get hidden layer probabilities from vis
 ```
 
 ## DBN (Deep Belief Network)
-```
+```javascript
 var dnn = require('dnn');
 var x = [[1,1,1,0,0,0],
          [1,0,1,0,0,0],
@@ -185,7 +185,7 @@ console.log(dbn.predict(x));
 ```
 
 ## CRBM (Restricted Boltzmann Machine with continuous-valued inputs)
-```
+```javascript
 var dnn = require('dnn');
 var data = [[0.4, 0.5, 0.5, 0.,  0.,  0.7],
             [0.5, 0.3,  0.5, 0.,  1,  0.6],
@@ -216,7 +216,7 @@ console.log(crbm.sampleHgivenV(v)[0]); // get hidden layer probabilities from vi
 ```
 
 ## CDBN (Deep Belief Network with continuous-valued inputs)
-```
+```javascript
 var dnn = require('dnn')
 
 var x = [[0.4, 0.5, 0.5, 0.,  0.,  0.],
